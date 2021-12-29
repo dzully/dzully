@@ -1,7 +1,7 @@
 # [![waylon walker header](https://pbs.twimg.com/profile_banners/2463193075/1601728597/1500x500)](https://waylonwalker.com)
 
 <p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+  <a href="https://waylonwalker.com/latest-story.png"><img width="100" height="100" align='right' src="https://waylonwalker.com/latest-story.png"></a>
 </p>
 
 <p align='center'>
@@ -35,11 +35,11 @@ My Intellectual curiosity also drives me to be a lifelong learner. I recently ea
 
 ### My Digital Garden 🌱
 
-❖ Tech stack: JavaScript, Reactjs, Material Design
-❖ Frontend Developer with 3+ years of professional experiences in Web Development.
-❖ Strong experience with Cross Browser Compatibility issues and Optimization for web, including CSS Sprites and best practices
-❖ Experts in responsive Web Design and analysing and fixing UI bugs quickly.
-❖ Proficiency in code optimization to improving the performance..
+❖ Tech stack: JavaScript, Reactjs, Material Design.&nbsp;&nbsp;
+❖ Frontend Developer with 3+ years of professional experiences in Web Development.&nbsp;&nbsp;
+❖ Strong experience with Cross Browser Compatibility issues and Optimization for web, including CSS Sprites and best practices.&nbsp;&nbsp;
+❖ Experts in responsive Web Design and analysing and fixing UI bugs quickly.&nbsp;&nbsp;
+❖ Proficiency in code optimization to improving the performance.&nbsp;&nbsp;
 
 I have since taken everything I've learned and I'm someone who is always crazy to get into new tech happening in the world. There, I continue to solve problems and provide the best solutions and services 🔭.
 
