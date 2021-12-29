@@ -17,7 +17,7 @@ People use to call me Dzul (zul *silent D), nice to meet you 😉. I'm a softwar
   <img width="100" height="100" align='left' src="https://cdn-icons.flaticon.com/png/512/2973/premium/2973778.png?token=exp=1640761536~hmac=91b64443847bc8c71e48243b4c5cc7b6">
 </p>
  
-### World Class Services
+### Future Is Gold 🧑‍💻
 
 With my refined skill set, I bring customer-centric mindfulness that enables firms to innovate and thrive. This is what I've done with ISN Malaysia, MYINSKEN and TNB as I provided technical expertise on industrial products to visionaries like Airbnb, Facebook and Google Maps 🌎.
 
