@@ -17,7 +17,7 @@ People use to call me Dzul (zul *silent D), nice to meet you 😉. I'm a softwar
   <img width="100" height="100" align='left' src="https://cdn-icons.flaticon.com/png/512/2973/premium/2973778.png?token=exp=1640761536~hmac=91b64443847bc8c71e48243b4c5cc7b6">
 </p>
  
-### Future Is Gold 🧑‍💻
+### Future Is Gold 💛
 
 With my refined skill set, I bring customer-centric mindfulness that enables firms to innovate and thrive. This is what I've done with ISN Malaysia, MYINSKEN and TNB as I provided technical expertise on industrial products to visionaries like Airbnb, Facebook and Google Maps 🌎.
 
@@ -26,7 +26,7 @@ My Intellectual curiosity also drives me to be a lifelong learner. I recently ea
  ---
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://twitter.com/dzulsyakimi"><img width="300" align='right' src="https://cdn-icons.flaticon.com/png/512/3242/premium/3242257.png?token=exp=1640762074~hmac=75db8681f160d1ea2f73334e4796e95f"></a>
 </p>
 
 ### My Digital Garden 🌱
