@@ -1,9 +1,5 @@
 # [![dzul syakimin header](https://pbs.twimg.com/profile_banners/2463193075/1601728597/1500x500)](https://www.linkedin.com/in/mohamad-dzul-syakimin-mohd-noor-096394a3/)
 
-<p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150"  align='right' src="https://waylonwalker.com/latest-story.png"></a>
-</p>
-
 <p align='center'>
 <a href="https://www.facebook.com/iDzuly"><img height="30" src="https://cdn-icons.flaticon.com/png/512/665/premium/665209.png?token=exp=1640761242~hmac=9efda7847d3a237f5c1088043bd0588a"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/dzulsyakimi"><img height="30" src="https://cdn-icons.flaticon.com/png/512/665/premium/665228.png?token=exp=1640760850~hmac=39eccba1776bbe23ac36dc3fa68b9081"></a>&nbsp;&nbsp;
@@ -16,6 +12,10 @@ Hey there 👋,
 People use to call me Dzul (zul *silent D), nice to meet you 😉. I'm a software engineer with industry experience building full stack applications. I specialize in JavaScript and have professional experience working with golang and python. I also have experience working with Angular and React 🧑‍💻.
 
   ---
+  
+<p>
+  <img width="100" height="100" align='left' src="https://cdn-icons.flaticon.com/png/512/2973/premium/2973778.png?token=exp=1640761536~hmac=91b64443847bc8c71e48243b4c5cc7b6">
+</p>
  
 ### World Class Services
 
