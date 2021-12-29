@@ -18,7 +18,7 @@ People use to call me Dzul (zul *silent D), nice to meet you 😉. I'm a softwar
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://cdn-icons.flaticon.com/png/512/2973/premium/2973778.png?token=exp=1640761536~hmac=91b64443847bc8c71e48243b4c5cc7b6">
 </p>
  
 ### World Class Services
