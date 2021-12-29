@@ -1,7 +1,7 @@
 # [![waylon walker header](https://pbs.twimg.com/profile_banners/2463193075/1601728597/1500x500)](https://waylonwalker.com)
 
 <p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="100" height="100" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+  <a href="https://waylonwalker.com/latest-story.png"><img width="150"  align='right' src="https://waylonwalker.com/latest-story.png"></a>
 </p>
 
 <p align='center'>
@@ -18,7 +18,7 @@ People use to call me Dzul (zul *silent D), nice to meet you 😉. I'm a softwar
   ---
  
  <p>
-  <img width="250" align='left' src="https://cdn-icons.flaticon.com/png/512/2973/premium/2973778.png?token=exp=1640761536~hmac=91b64443847bc8c71e48243b4c5cc7b6">
+  <img width="200" height="200" align='left' src="https://cdn-icons.flaticon.com/png/512/2973/premium/2973778.png?token=exp=1640761536~hmac=91b64443847bc8c71e48243b4c5cc7b6">
 </p>
  
 ### World Class Services
