@@ -40,3 +40,5 @@ My Intellectual curiosity also drives me to be a lifelong learner. I recently ea
 I have since taken everything I've learned and I'm someone who is always crazy to get into new tech happening in the world. There, I continue to solve problems and provide the best solutions and services 🔭.
 
 I love traveling around the world, reading new articles about tech, and love football and also discussing about football, so if you ever want to bounce ideas off to me, please feel free to contact me via private message 💭.
+
+View My Personal Website (https://home-gold.vercel.app/)
